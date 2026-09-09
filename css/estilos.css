@@ -6,6 +6,12 @@
 	font-weight:bold;
 }
 
+.imagen-principal {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
 .seccion1{
 	color:darkblue;
 	background:lightblue;
