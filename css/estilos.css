@@ -1,7 +1,7 @@
 .h1{
 	color:darkblue;
 	background:lightblue;
-	font-cize:40px;
+	font-size:40px;
 	font-style:italic;
 	font-weight:bold;
 }
@@ -9,7 +9,7 @@
 .seccion1{
 	color:darkblue;
 	background:lightblue;
-	font-cize:18px;
+	font-size:18px;
 	font-style:normal;
 	font-weight:normal;
 }
@@ -18,7 +18,7 @@
 .distrito{
 	color:purple;
 	background:lavender;
-	font-cize:20px;
+	font-size:20px;
 	font-style:italic;
 	font-weight:bold;
 }
@@ -26,7 +26,7 @@
 .ruta{
 	color:sienna;
 	background:beige;
-	font-cize:18px;
+	font-size:18px;
 	font-style:normal;
 	font-weight:bold;
 }
@@ -34,21 +34,21 @@
 .ruta1{
 	color:saddlebrown;
 	background:beige;
-	font-cize:18px;
+	font-size:18px;
 	font-style:normal;
 	font-weight:bold;
 }
 
 .contacto{
 	color:brown;
-    font-cize:18px;
+        font-size:18px;
 	font-style:normal;
 	font-weight:normal;
 }
 
 .contacto1{
 	color:steelblue;
-    font-cize:16px;
+        font-size:16px;
 	font-style:normal;
 	font-weight:normal;
 }
