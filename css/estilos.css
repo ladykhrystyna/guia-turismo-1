@@ -35,6 +35,18 @@ header {
 	font-weight:bold;
 }
 
+.fotos{
+        display:flex;
+        gap:10px;
+        width:100%;
+}
+
+.fotos img{
+        flex:1;
+        height:250px;
+        object-fit:cover;
+}
+
 .ruta{
 	color:sienna;
 	background:beige;
